@@ -1,0 +1,5249 @@
+{
+    "AD": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "20",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "784",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "AF": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "119"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "4",
+        "local_only": true,
+        "police": [
+            "119"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AG": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "999",
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "28",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AI": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "660",
+        "local_only": false,
+        "missing_data": true,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AL": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "8",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "AM": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "51",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "AO": {
+        "ambulance": [
+            "69"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "69"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "24",
+        "local_only": false,
+        "police": [
+            "69"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AQ": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "10",
+        "local_only": false,
+        "missing_data": true,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AR": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "32",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AS": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "16",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AT": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "40",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "AU": {
+        "ambulance": [
+            "000"
+        ],
+        "dispatch": [
+            "112"
+        ],
+        "fire": [
+            "000"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "36",
+        "local_only": false,
+        "police": [
+            "000"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AW": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "533",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "AX": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "248",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "AZ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "31",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "BA": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "70",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "BB": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "52",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BD": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "50",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "56",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "BF": {
+        "ambulance": [
+            "18"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "854",
+        "local_only": true,
+        "police": [
+            "17"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BG": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "100",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "BH": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "48",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BI": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "108",
+        "local_only": true,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BJ": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "204",
+        "local_only": true,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BL": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "652",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BM": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "60",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BN": {
+        "ambulance": [
+            "991"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "995"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "96",
+        "local_only": false,
+        "police": [
+            "993"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BO": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "68",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BQ": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "535",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BR": {
+        "ambulance": [
+            "192"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "193"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "76",
+        "local_only": false,
+        "police": [
+            "190"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "BS": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "44",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BT": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "110"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "64",
+        "local_only": false,
+        "police": [
+            "113"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BV": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "74",
+        "local_only": false,
+        "missing_data": true,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BW": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "997",
+            " 911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "72",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BY": {
+        "ambulance": [
+            "103"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "101"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "112",
+        "local_only": false,
+        "police": [
+            "102"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "BZ": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "84",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CA": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "124",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CC": {
+        "ambulance": [
+            "000"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "000"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "166",
+        "local_only": false,
+        "police": [
+            "000"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CD": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "180",
+        "local_only": true,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CF": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "1220"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "140",
+        "local_only": true,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CG": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "178",
+        "local_only": true,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CH": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "756",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "CI": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "180"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "384",
+        "local_only": false,
+        "police": [
+            "110",
+            "111",
+            "170"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CK": {
+        "ambulance": [
+            "998"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "996"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "184",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CL": {
+        "ambulance": [
+            "131"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "132"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "152",
+        "local_only": false,
+        "police": [
+            "133"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CM": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "120",
+        "local_only": true,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CN": {
+        "ambulance": [
+            "120"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "119"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "156",
+        "local_only": false,
+        "police": [
+            "110"
+        ],
+        "supports_112": false,
+        "traffic": [
+            "122"
+        ]
+    },
+    "CO": {
+        "ambulance": [
+            "123"
+        ],
+        "dispatch": [
+            "123"
+        ],
+        "fire": [
+            "123"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "170",
+        "local_only": false,
+        "police": [
+            "123"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CR": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "188",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "CU": {
+        "ambulance": [
+            "104"
+        ],
+        "dispatch": [
+            "26811"
+        ],
+        "fire": [
+            "105"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "192",
+        "local_only": false,
+        "police": [
+            "106"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CV": {
+        "ambulance": [
+            "131"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "130"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "132",
+        "local_only": false,
+        "police": [
+            "132"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CW": {
+        "ambulance": [
+            "912"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "531",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CX": {
+        "ambulance": [
+            "000"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "000"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "162",
+        "local_only": false,
+        "missing_data": true,
+        "police": [
+            "000"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "CY": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "199"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "196",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "CZ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "203",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "DE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "276",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "DJ": {
+        "ambulance": [
+            "18"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "19"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "262",
+        "local_only": false,
+        "police": [
+            "17"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "DK": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "208",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "DM": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "212",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "DO": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "214",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "DZ": {
+        "ambulance": [
+            "14"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "14"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "12",
+        "local_only": false,
+        "police": [
+            "18"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "EC": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "218",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "EE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "233",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "EG": {
+        "ambulance": [
+            "123"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "180"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "818",
+        "local_only": false,
+        "police": [
+            "122"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "EH": {
+        "ambulance": [
+            "150"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "150"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "732",
+        "local_only": false,
+        "police": [
+            "150"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "ER": {
+        "ambulance": [
+            "116"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "114"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "232",
+        "local_only": true,
+        "police": [
+            "113"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "ES": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "724",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "ET": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "231",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "FI": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "246",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "FJ": {
+        "ambulance": [
+            "000"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "000"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "242",
+        "local_only": false,
+        "police": [
+            "000"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "FK": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "238",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "FM": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "583",
+        "local_only": true,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "FO": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "234",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "FR": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "250",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "GA": {
+        "ambulance": [
+            "18"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "1300"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "266",
+        "local_only": false,
+        "police": [
+            "1730"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GB": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "826",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "GD": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "308",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "268",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "GF": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "254",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GG": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "831",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GH": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "288",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GI": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "292",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "GL": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "304",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "GM": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "116"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "270",
+        "local_only": false,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GN": {
+        "ambulance": [
+            "110"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "111"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "324",
+        "local_only": true,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GP": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "312",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GQ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "115"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "226",
+        "local_only": true,
+        "police": [
+            "114"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GR": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "300",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "GS": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "239",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GT": {
+        "ambulance": [
+            "128"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "122"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "320",
+        "local_only": false,
+        "police": [
+            "110"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GU": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "316",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GW": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "624",
+        "local_only": true,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "GY": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "328",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "HK": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "344",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "HM": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "334",
+        "local_only": false,
+        "missing_data": true,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "HN": {
+        "ambulance": [
+            "195",
+            " 195"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "198"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "340",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "HR": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "191",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "HT": {
+        "ambulance": [
+            "115"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "116"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "332",
+        "local_only": false,
+        "police": [
+            "114"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "HU": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "348",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "ID": {
+        "ambulance": [
+            "113"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "118"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "360",
+        "local_only": false,
+        "police": [
+            "110"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "IE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "372",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "IL": {
+        "ambulance": [
+            "102"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "101"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "376",
+        "local_only": false,
+        "police": [
+            "100"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "IM": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "833",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "IN": {
+        "ambulance": [
+            "102"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "101"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "356",
+        "local_only": false,
+        "police": [
+            "100"
+        ],
+        "supports_112": true,
+        "traffic": [
+            "103"
+        ]
+    },
+    "IO": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "86",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "IQ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "368",
+        "local_only": true,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "IR": {
+        "ambulance": [
+            "125"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "115"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "364",
+        "local_only": false,
+        "police": [
+            "110"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "IS": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "352",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "IT": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "380",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "JE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "832",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "JM": {
+        "ambulance": [
+            "110"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "110"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "388",
+        "local_only": false,
+        "police": [
+            "119"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "JO": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "400",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": true,
+        "traffic": [
+            "190"
+        ]
+    },
+    "JP": {
+        "ambulance": [
+            "119"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "119"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "392",
+        "local_only": false,
+        "police": [
+            "110"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "404",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KG": {
+        "ambulance": [
+            "101"
+        ],
+        "dispatch": [
+            "103"
+        ],
+        "fire": [
+            "103"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "417",
+        "local_only": false,
+        "police": [
+            "102"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KH": {
+        "ambulance": [
+            "119"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "118"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "116",
+        "local_only": false,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KI": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "296",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KM": {
+        "ambulance": [
+            "18"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "772-03-73"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "174",
+        "local_only": true,
+        "police": [
+            "17"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KN": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "659",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KP": {
+        "ambulance": [
+            "119"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "119"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "408",
+        "local_only": true,
+        "police": [
+            "119"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KR": {
+        "ambulance": [
+            "119"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "119"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "410",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KW": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "414",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "KY": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "136",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "KZ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "398",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "LA": {
+        "ambulance": [
+            "190"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "195"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "418",
+        "local_only": true,
+        "police": [
+            "191"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "LB": {
+        "ambulance": [
+            "175"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "140"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "422",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "LC": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "999",
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "662",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "LI": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "438",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "LK": {
+        "ambulance": [
+            "110"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "110"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "144",
+        "local_only": false,
+        "police": [
+            "119"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "LR": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "430",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "LS": {
+        "ambulance": [
+            "122"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "121"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "426",
+        "local_only": false,
+        "police": [
+            "123",
+            " 123"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "LT": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "440",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "LU": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "442",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "LV": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "428",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "LY": {
+        "ambulance": [
+            "1515"
+        ],
+        "dispatch": [
+            "193"
+        ],
+        "fire": [
+            "1515"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "434",
+        "local_only": false,
+        "police": [
+            "1515"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MA": {
+        "ambulance": [
+            "15"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "15"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "504",
+        "local_only": false,
+        "police": [
+            "19"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MC": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "492",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "MD": {
+        "ambulance": [
+            "901"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "903"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "498",
+        "local_only": false,
+        "police": [
+            "902"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "ME": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "499",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "MF": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "663",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MG": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "124"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "450",
+        "local_only": true,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MH": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "584",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MK": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "807",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "ML": {
+        "ambulance": [
+            "18"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "15"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "466",
+        "local_only": false,
+        "police": [
+            "17"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MM": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "104",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MN": {
+        "ambulance": [
+            "105"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "105"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "496",
+        "local_only": false,
+        "police": [
+            "105"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MO": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "446",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "MP": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "580",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MQ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "474",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MR": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "101"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "478",
+        "local_only": false,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MS": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "500",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MT": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "470",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "MU": {
+        "ambulance": [
+            "115"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "114"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "480",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "MV": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "102"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "462",
+        "local_only": false,
+        "police": [
+            "119"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MW": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "998"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "454",
+        "local_only": false,
+        "police": [
+            "997"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MX": {
+        "ambulance": [
+            "066"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "066"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "484",
+        "local_only": false,
+        "police": [
+            "066"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MY": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "458",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "MZ": {
+        "ambulance": [
+            "198"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "117"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "508",
+        "local_only": false,
+        "police": [
+            "119"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NA": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "516",
+        "local_only": false,
+        "police": [
+            "10111"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NC": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "540",
+        "local_only": false,
+        "missing_data": true,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NE": {
+        "ambulance": [
+            "18"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "15"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "562",
+        "local_only": true,
+        "police": [
+            "17"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NF": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "574",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NG": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "566",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NI": {
+        "ambulance": [
+            "128"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "115",
+            "115"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "558",
+        "local_only": false,
+        "police": [
+            "118"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NL": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "528",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "NO": {
+        "ambulance": [
+            "110"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "113"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "578",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NP": {
+        "ambulance": [
+            "101"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "102"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "524",
+        "local_only": false,
+        "police": [
+            "100"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NR": {
+        "ambulance": [
+            "111"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "520",
+        "local_only": true,
+        "police": [
+            "110"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NU": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "570",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "NZ": {
+        "ambulance": [
+            "111"
+        ],
+        "dispatch": [
+            "111"
+        ],
+        "fire": [
+            "111"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "554",
+        "local_only": false,
+        "police": [
+            "111"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "OM": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "512",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PA": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "591",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "PE": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "011",
+            " 5114"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "604",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PF": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "258",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PG": {
+        "ambulance": [
+            "110"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "111"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "598",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PH": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "116",
+            "117"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "608",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PK": {
+        "ambulance": [
+            "16"
+        ],
+        "dispatch": [
+            "15"
+        ],
+        "fire": [
+            "115"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "586",
+        "local_only": false,
+        "police": [
+            "15"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PL": {
+        "ambulance": [
+            "998"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "616",
+        "local_only": false,
+        "police": [
+            "997"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "PM": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "666",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PN": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "612",
+        "local_only": false,
+        "missing_data": true,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PR": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "630",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PS": {
+        "ambulance": [
+            "101"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "101"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "275",
+        "local_only": false,
+        "police": [
+            "100"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PT": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "620",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "PW": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "585",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "PY": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "00"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "600",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "QA": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "634",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "RE": {
+        "ambulance": [
+            "112",
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "638",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "RO": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "642",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "RS": {
+        "ambulance": [
+            "193"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "194"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "688",
+        "local_only": false,
+        "police": [
+            "192"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "RU": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "643",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "RW": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "912"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "646",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SA": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "682",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "SB": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "90",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SC": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "690",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SD": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "729",
+        "local_only": true,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SE": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "752",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "SG": {
+        "ambulance": [
+            "995"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "995"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "702",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SH": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "654",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SI": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "705",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "SJ": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "744",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SK": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "703",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "SL": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "694",
+        "local_only": false,
+        "police": [
+            "019"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SM": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "674",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SN": {
+        "ambulance": [
+            "1515"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "18"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "686",
+        "local_only": false,
+        "police": [
+            "17"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "SO": {
+        "ambulance": [
+            "555"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "706",
+        "local_only": true,
+        "police": [
+            "888"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SR": {
+        "ambulance": [
+            "115"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "115"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "740",
+        "local_only": true,
+        "police": [
+            "115"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SS": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "728",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "ST": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "678",
+        "local_only": true,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SV": {
+        "ambulance": [
+            "132"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "913"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "222",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SX": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "534",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SY": {
+        "ambulance": [
+            "113"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "110"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "760",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "SZ": {
+        "ambulance": [
+            "933"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "977"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "748",
+        "local_only": true,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TC": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            "999",
+            " 911"
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "796",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TD": {
+        "ambulance": [
+            "18"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "2251-4242"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "148",
+        "local_only": false,
+        "police": [
+            "17"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TF": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "260",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TG": {
+        "ambulance": [
+            "118"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "8200"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "768",
+        "local_only": false,
+        "police": [
+            "117"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TH": {
+        "ambulance": [
+            "199"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "1669"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "764",
+        "local_only": false,
+        "police": [
+            "191"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TJ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "762",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TK": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "772",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TL": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "626",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "TM": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "795",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TN": {
+        "ambulance": [
+            "190"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "198"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "788",
+        "local_only": false,
+        "police": [
+            "197"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TO": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "776",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TR": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "792",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TT": {
+        "ambulance": [
+            "990"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "811"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "780",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TV": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "798",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TW": {
+        "ambulance": [
+            "119"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "119"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "158",
+        "local_only": false,
+        "police": [
+            "110"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "TZ": {
+        "ambulance": [
+            "115"
+        ],
+        "dispatch": [
+            "112",
+            "999"
+        ],
+        "fire": [
+            "114"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "834",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "UA": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "804",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "UG": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "112"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "800",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "UM": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "581",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "US": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "840",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "UY": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "999",
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "858",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "UZ": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            "03"
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "860",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "VA": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "336",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "VC": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "999",
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "670",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "VE": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "171"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "862",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "VG": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "92",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "VI": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "850",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "VN": {
+        "ambulance": [
+            "114"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "115"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "704",
+        "local_only": false,
+        "police": [
+            "113"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "VU": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "548",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": true,
+        "traffic": [
+            null
+        ]
+    },
+    "WF": {
+        "ambulance": [
+            null
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            null
+        ],
+        "is_inhabited": null,
+        "iso_numeric": "876",
+        "local_only": false,
+        "police": [
+            null
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "WS": {
+        "ambulance": [
+            "911"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "911"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "882",
+        "local_only": false,
+        "police": [
+            "911"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "YE": {
+        "ambulance": [
+            "191"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "191"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "887",
+        "local_only": false,
+        "police": [
+            "194"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "YT": {
+        "ambulance": [
+            "112"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "112"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "175",
+        "local_only": false,
+        "police": [
+            "112"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "ZA": {
+        "ambulance": [
+            "10177"
+        ],
+        "dispatch": [
+            null
+        ],
+        "fire": [
+            "10177"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "710",
+        "local_only": false,
+        "police": [
+            "10111"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "ZM": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "894",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    },
+    "ZW": {
+        "ambulance": [
+            "999"
+        ],
+        "dispatch": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "is_inhabited": true,
+        "iso_numeric": "716",
+        "local_only": false,
+        "police": [
+            "999"
+        ],
+        "supports_112": false,
+        "traffic": [
+            null
+        ]
+    }
+}
